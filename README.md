@@ -59,35 +59,9 @@ Usage
 This Program was built using the [Visual Studio ] IDE (https://visualstudio.microsoft.com/vs/)
 ```
 
-
 ```
 ## References
 - Prodigy_SD_01 Task
-
-
-## Screenshots: 
-
-![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_01/main/Screenshot%202024-07-22%20135757.png)
-![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_01/main/Screenshot%202024-07-22%20135823.png)
-![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_01/main/Screenshot%202024-07-22%20135833.png)
-
-
-This Program was built using the [Visual Studio ] IDE (https://visualstudio.microsoft.com/vs/)
-```
-
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/https://leizianetrevisan.notion.site/Hello-I-m-Leiziane-3801bd1694ac46f8a28fddcca61fe34e/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
-```
-## References
-- Prodigy_SD_01 Task
-
-
-
 
 
 
@@ -97,7 +71,6 @@ This Program was built using the [Visual Studio ] IDE (https://visualstudio.micr
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leizianetrevisan.notion.site/Hello-I-m-Leiziane-3801bd1694ac46f8a28fddcca61fe34e/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](/https://leizianetrevisan.notion.site/Hello-I-m-Leiziane-3801bd1694ac46f8a28fddcca61fe34e/)
 
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
