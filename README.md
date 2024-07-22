@@ -20,6 +20,11 @@ Repository of Temperature Converter Program
 The program converts Temperature among Celsius, Fahrenheit, and Kelvin scales.
 
 
+## Screenshots: 
+
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_01/main/Screenshot%202024-07-22%20135757.png)
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_01/main/Screenshot%202024-07-22%20135823.png)
+![Screenshot 2024-07-22 131710.png](https://raw.githubusercontent.com/LizzyTrevisan/Prodigy_SD_01/main/Screenshot%202024-07-22%20135833.png)
 
 
 This Program was built using the [Visual Studio ] IDE (https://visualstudio.microsoft.com/vs/)
